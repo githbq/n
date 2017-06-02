@@ -1,4 +1,4 @@
-> change n command to n2 
+> change n command to nnn2
 # `n` – Interactively Manage Your Node.js Versions
 
 [![Join the chat at https://gitter.im/tj/n](https://img.shields.io/gitter/room/tj/n.svg?style=flat-square)](https://gitter.im/tj/n)
