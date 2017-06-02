@@ -35,10 +35,7 @@
     "bin": {
         "n2": "./bin/n"
     },
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/tj/n.git"
-    },
+    "repository": "https://github.com/githbq/n.git",
     "preferGlobal": true,
     "os": [
         "!win32"
