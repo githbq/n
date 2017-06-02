@@ -1,6 +1,6 @@
 {
     "name": "n2",
-    "description": "Interactively Manage All Your Node Versions",
+    "description": "change n command to n2 ",
     "version": "2.1.7",
     "author": "TJ Holowaychuk <tj@vision-media.ca>",
     "homepage": "https://github.com/tj/n",
