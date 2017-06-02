@@ -1,7 +1,7 @@
 {
     "name": "nnn2",
     "description": "change n command to nnn2 ",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "TJ Holowaychuk <tj@vision-media.ca>",
     "homepage": "https://github.com/tj/n",
     "bugs": "https://github.com/tj/n/issues",
@@ -33,7 +33,7 @@
         "env"
     ],
     "bin": {
-        "n2": "./bin/n"
+        "nnn2": "./bin/n"
     },
     "repository": "https://github.com/githbq/n.git",
     "preferGlobal": true,
